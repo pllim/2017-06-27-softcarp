@@ -1,4 +1,8 @@
-# workshop-template
+# Software Carpentry for Astronomers
+
+Attend, learn, and be the envy of your peers! That Nobel Prize is not going to win itself.
+
+# Note to self...
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
 template for creating websites for workshops.
